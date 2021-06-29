@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-[Next-labmda-demo](https://next-lambda.fbclouddemo.us)
+[Next-lambda-demo](https://next-lambda.fbclouddemo.us)
 
 [Next-lambda-demo-CF-URL](https://d20t6pcf6r3cwv.cloudfront.net/)
 
